@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.qa-context/index.json
+.qa-context/coverage.mmd
+.qa-context/gaps.json
+.qa-context/snapshot.hash
+# NIE ignoruj benchmark-r2.md ani overrides.json — to jest wartościowe
+coverage/
+*.js.map
+.env
+.DS_Store
